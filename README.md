@@ -1,6 +1,6 @@
 ### Hi, I'm Phillip 👋  
 
-I'm a web developer currently enrolled in the UCF bootcamp. I have a passion for coding and making new web apps. Some of the many things i've worked in include:  
+I'm a fullstack developer currently enrolled in the UCF bootcamp. I have a passion for coding and making new web apps. Some of the many things i've worked in include:  
 <br/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100314873/170803308-47721c72-1f21-42eb-b5b4-eeead37cab45.png" width=18% height=10%>
