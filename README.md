@@ -14,8 +14,8 @@ I'm a web developer currently enrolled in the UCF bootcamp. I have a passion for
   <img src="https://user-images.githubusercontent.com/100314873/170803860-5cacc425-f373-4bc1-8c43-7bcc4e842f2c.png" width=18% height=10%>
 </p>
 
-- 🔭 I’m currently working on... My React Portfolio
-- 🌱 I’m currently learning ... React and MERN
+- 🔭 I’m currently working on My React Portfolio
+- 🌱 I’m currently learning MERN
 
 <!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/100314873/170803183-c8ae812f-f3aa-463f-8da6-16b92e7c8798.png" width=50% height=50%>
