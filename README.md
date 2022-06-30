@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/100314873/172055688-d09911bb-e35c-44a3-a68a-23404e8d5468.jpg" width=80% height=10%>
 </p>
 
-I'm a fullstack developer currently enrolled in the UCF bootcamp. I have a passion for coding and making new web apps. Some of the many things i've worked in include:
+I'm a fullstack developer that graduated from the UCF bootcamp. I have a passion for coding and making new web apps. Some of the many things i've worked in include:
 - [x] HTML5
 - [x] CSS3
 - [x] CSS Frameworks like:
