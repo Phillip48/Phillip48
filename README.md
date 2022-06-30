@@ -18,6 +18,9 @@ I'm a fullstack developer currently enrolled in the UCF bootcamp. I have a passi
 - [x] Mysql
 - [x] MongoDb
 - [x] GraphQl
+Along with some experience in:
+- [x] Python
+- [x] Flask
 
 <br/>
 <!--  
