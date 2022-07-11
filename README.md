@@ -18,9 +18,6 @@ I'm a fullstack developer that graduated from the UCF bootcamp. I have a passion
 - [x] Mysql
 - [x] MongoDb
 - [x] GraphQl  
-Along with some experience in:  
-- [x] Python  
-- [x] Flask  
 
 <br/>
 <!--  
