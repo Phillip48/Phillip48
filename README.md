@@ -11,6 +11,7 @@ I'm a fullstack developer that graduated from the UCF bootcamp. I have a passion
   - Bulma
   - Tailwind
 - [x] React
+- [x] React Native
 - [x] Jquery
 - [x] Node JS
 - [x] Express JS
