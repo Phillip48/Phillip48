@@ -1,57 +1,60 @@
-### Hi, I'm Phillip 👋  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/100314873/172055688-d09911bb-e35c-44a3-a68a-23404e8d5468.jpg" width=80% height=10%>
-</p>
+# Hey there, I'm Phillip 👋
 
-I'm a fullstack developer that graduated from the UCF bootcamp. I have a passion for coding and making new web apps. Currently i'm working for a local SEO company as a Front End Web Developer wokring with HTML, CSS, JS and Wordpress. I'm currently learning all about the world of cyber security. Some of the many things i've worked in include:
-- [x] HTML5
-- [x] CSS3
-- [x] CSS Frameworks like:
-  - Bootstrap
-  - Bulma
-  - Tailwind
-- [x] React
-- [x] React Native
-- [x] Jquery
-- [x] Node JS
-- [x] Express JS
-- [x] Handlebars
-- [x] Mysql
-- [x] MongoDb
-- [x] GraphQl
-- [x] Python
-- [x] Linux
-- [x] Docker/Portainer
-- [x] Splunk
+🌐 Fullstack Web Developer | 📍 Orlando, FL | 💼 Frontend Dev @ RR Digital
 
-<br/>
-<!--  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/100314873/170803308-47721c72-1f21-42eb-b5b4-eeead37cab45.png" width=18% height=10%>
-  <img src="https://user-images.githubusercontent.com/100314873/170803310-bbdc9902-664e-4c25-bd68-6cbd9a115909.png" width=18% height=10%>
-  <img src="https://user-images.githubusercontent.com/100314873/170803382-99e747f7-04ee-4ea2-a275-39fbc76523f0.png" width=18% height=10%>
-  <img src="https://user-images.githubusercontent.com/100314873/170803420-bfc53e42-a935-486d-ba24-972a71c5c6cc.png" width=18% height=10%>
-  <img src="https://user-images.githubusercontent.com/100314873/170803487-f7e18f4b-818b-47d5-a086-e38c78035afb.png" width=18% height=10%>
-  <img src="https://user-images.githubusercontent.com/100314873/170803524-f453111f-dc0c-4bdc-81e6-24c6d6695709.png" width=18% height=10%>
-  <img src="https://user-images.githubusercontent.com/100314873/170803509-1d46a7b9-9ccd-48c6-960e-7627b2a89c3f.png" width=18% height=10%>
-  <img src="https://user-images.githubusercontent.com/100314873/170803499-b0ef0034-6603-4453-b4b1-9353f05d44e5.png" width=18% height=10%>
-  <img src="https://user-images.githubusercontent.com/100314873/170803860-5cacc425-f373-4bc1-8c43-7bcc4e842f2c.png" width=18% height=10%>
-</p>
--->
-<!-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/100314873/170803183-c8ae812f-f3aa-463f-8da6-16b92e7c8798.png" width=50% height=50%>
-</p> -->
-<!--
-**Phillip48/Phillip48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack developer and UCF bootcamp grad with a passion for building web apps and exploring new tech. By day I build and optimize sites using HTML, CSS, JS, and WordPress for a local SEO company. By night I'm diving deeper into cybersecurity and always cooking up side projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
+**CSS Frameworks**
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
+
+**Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+**Tools & Other**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+### 🧗 [The Climbing Wall App](https://github.com/Phillip48/The-Climbing-Wall-App)
+A mobile app built with React Native for tracking your climbing progress. Log routes, track grades, and follow your improvement over time.
+
+---
+
+## 📚 Currently Learning
+- 🔐 Cybersecurity fundamentals
+- 🛡️ Tools & concepts in the security space (Splunk, Linux hardening, and more)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillip-pereira-719985232/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Phillip48)
+
+---
+
+*Always building. Always learning.* 🚀
