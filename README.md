@@ -50,9 +50,8 @@ A mobile app built with React Native for tracking your climbing progress. Log ro
 
 ## 📚 Continuing Education & Growth
 
-I'm a firm believer in never stopping learning. Whether it's picking up a new framework, deepening my understanding of existing tools, or taking on personal projects to sharpen my skills — I'm always building something and always growing.
+I'm a firm believer in continuing education. Whether it's picking up a new framework, deepening my understanding of existing tools, or taking on personal projects to sharpen my skills — I'm always building something and always growing.
 
-- 🔐 Expanding into cybersecurity — exploring tools like Splunk, Linux hardening, and security fundamentals
 - 🧱 Continuously building personal projects to experiment with new tech and stay sharp
 - 📖 Keeping up with the ever-evolving world of web development and software engineering
 
