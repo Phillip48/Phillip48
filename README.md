@@ -9,6 +9,7 @@ I'm a fullstack developer and UCF bootcamp grad with a passion for building web 
 ## 🛠️ Tech Stack
 
 **Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -17,11 +18,13 @@ I'm a fullstack developer and UCF bootcamp grad with a passion for building web 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 **CSS Frameworks**
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
 
 **Backend & Databases**
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
@@ -29,6 +32,7 @@ I'm a fullstack developer and UCF bootcamp grad with a passion for building web 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 **Tools & Other**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
@@ -44,9 +48,13 @@ A mobile app built with React Native for tracking your climbing progress. Log ro
 
 ---
 
-## 📚 Currently Learning
-- 🔐 Cybersecurity fundamentals
-- 🛡️ Tools & concepts in the security space (Splunk, Linux hardening, and more)
+## 📚 Continuing Education & Growth
+
+I'm a firm believer in never stopping learning. Whether it's picking up a new framework, deepening my understanding of existing tools, or taking on personal projects to sharpen my skills — I'm always building something and always growing.
+
+- 🔐 Expanding into cybersecurity — exploring tools like Splunk, Linux hardening, and security fundamentals
+- 🧱 Continuously building personal projects to experiment with new tech and stay sharp
+- 📖 Keeping up with the ever-evolving world of web development and software engineering
 
 ---
 
