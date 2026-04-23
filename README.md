@@ -43,8 +43,11 @@ I'm a fullstack developer and UCF bootcamp grad with a passion for building web 
 
 ## 🚀 Featured Project
 
-### 🧗 [The Climbing Wall App](https://github.com/Phillip48/The-Climbing-Wall-App)
+### [The Climbing Wall App](https://theclimbingwall.phillippereira.com)
 A mobile app built with React Native for tracking your climbing progress. Log routes, track grades, and follow your improvement over time.
+
+### [Rate My Wall](https://ratemywall.com)
+RateMyWall is a full-stack climbing gym directory web application. It allows climbers to find gyms, read and write reviews, and get detailed information about climbing facilities across the United States.
 
 ---
 
