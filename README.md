@@ -2,7 +2,7 @@
 
 🌐 Fullstack Web Developer | 📍 Orlando, FL | 💼 Frontend Dev @ RR Digital
 
-I'm a fullstack developer and UCF bootcamp grad with a passion for building web apps and exploring new tech. By day I build and optimize sites using HTML, CSS, JS, and WordPress for a local SEO company. By night I'm diving deeper into cybersecurity and always cooking up side projects.
+I'm a fullstack developer and UCF bootcamp grad with a passion for building web apps and exploring new tech. 
 
 ---
 
